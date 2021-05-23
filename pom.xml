@@ -9,7 +9,7 @@
   <artifactId>nomatter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>Sprexor</name>
+  <name>NoMatter</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>14</maven.compiler.source>
