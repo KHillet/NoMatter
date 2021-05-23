@@ -19,7 +19,7 @@
   <dependencies>
     <dependency>
       <groupId>sprexor</groupId>
-      <artifactId>sprexor</artifactId>
+      <artifactId>Sprexor</artifactId>
       <version>1.0.0</version>
       <scope>test</scope>
     </dependency>
